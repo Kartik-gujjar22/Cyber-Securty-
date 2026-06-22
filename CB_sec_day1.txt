@@ -1,0 +1,3 @@
+Today tasks done 
+first Task - fundametanl of linux os commands
+second task - find data about give image through (searchlight)
